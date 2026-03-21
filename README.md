@@ -7,5 +7,5 @@ My Projects aren't really all that useful, but it's up to you to decide, if you 
 I do abandon some Projects, yet try my best to finish the ones i like the most.
 
 -----
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lightyyt&show_icons=true&theme=codeSTACKr)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lightyyt&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lightyuwu&show_icons=true&theme=codeSTACKr)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lightyuwu&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
